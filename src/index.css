@@ -6,5 +6,8 @@
 
 #canvas {
     align-self: center;
-    border: 1px solid black;
+}
+
+.hidden {
+    display: none;
 }
